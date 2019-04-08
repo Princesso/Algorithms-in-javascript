@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Princesso/Javascript-Problems/issues"
   },
-  "homepage": "https://github.com/Princesso/Javascript-Problems#readme"
+  "homepage": "https://github.com/Princesso/Javascript-Problems#readme",
+  "dependencies": {
+    "jest": "^24.7.1"
+  }
 }

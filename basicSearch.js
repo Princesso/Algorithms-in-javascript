@@ -15,5 +15,3 @@ const searchResults = (searchInput) => {
   });
   return matches.length > 3 ? matches.slice(0,5) : matches
 }
-
-console.log(searchResults('daddy'));
